@@ -10,7 +10,7 @@
   
 - 📝 I regularly write articles on [https://medium.com/@adlyrndii/](https://medium.com/@adlyrndii/)
 
-- 💬 Ask me about **react, typescript, jest**
+- 💬 Ask me about **React, TypesScript, Jest**
 
 - 📫 How to reach me **adlyyrr12@gmail.com**
 
